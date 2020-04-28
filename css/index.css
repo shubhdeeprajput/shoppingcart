@@ -1,0 +1,42 @@
+#banner{
+    background:url(../img/intro-bg_1.jpg) no-repeat center;
+    background-size: cover;
+    z-index: 0;
+}
+
+body > div{
+    min-height: 80vh;
+}
+footer{
+    background-color: #222;
+    color: #9d9d9d;
+    width: 100%;
+    position: sticky;
+}
+
+footer a{
+    display: block;
+    text-decoration: none;
+    color: #9d9d9d;
+}
+
+footer a:hover{
+    color:white;
+    text-decoration: none;
+}
+
+.main_thumbnails{
+    width: 90%;
+    height: auto;
+    opacity: 0.9;
+    transition: opacity 1s;
+    border-radius: 50%;
+}
+
+.thumbnail > img{
+    height: 168.33px;
+}
+
+.main_thumbnails:hover{
+    opacity: 1;
+}
