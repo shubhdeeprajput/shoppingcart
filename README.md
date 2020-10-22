@@ -1,6 +1,9 @@
 # Shopping Cart 🛒
 Online shopping website made using php.
 
+## definition 
+ A shopping cart on an online retailer's site is a piece of software that facilitates the purchase of a product or service.
+ 
 ## Frontend
 
   * Bootstrap
